@@ -1,5 +1,16 @@
 ---
-title: "gaborphy"
+title: "Gábor Molnár"
+image: media/20250521_125541.JPG
+toc: false
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/g-molnar/
+    - text: GitHub
+      href: https://github.com/gaborphy
 ---
 
 This is a Quarto website.
